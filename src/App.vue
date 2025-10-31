@@ -1,10 +1,10 @@
 <!-- src/App.vue -->
 <template>
   <div id="app">
-    <LazySingleton />
+    <FactoryMethod/>
   </div>
 </template>
 
 <script lang="ts" setup>
-import LazySingleton from "./components/patterns/singleton/LazySingleton.vue";
+import FactoryMethod from "./components/patterns/factory-method/FactoryMethodExample.vue";
 </script>
