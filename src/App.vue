@@ -1,10 +1,10 @@
 <!-- src/App.vue -->
 <template>
   <div id="app">
-    <Observer/>
+    <Visitor/>
   </div>
 </template>
 
 <script lang="ts" setup>
-import Observer from "./components/patterns/observer/ObserverExample.vue";
+import Visitor from "./components/patterns/visitor/VisitorExample.vue";
 </script>
