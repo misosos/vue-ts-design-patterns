@@ -1,10 +1,10 @@
 <!-- src/App.vue -->
 <template>
   <div id="app">
-    <Adapter/>
+    <Decorator/>
   </div>
 </template>
 
 <script lang="ts" setup>
-import Adapter from "./components/patterns/adapter/AdapterExample.vue.vue";
+import Decorator from "./components/patterns/decorator/DecoratorExample.vue";
 </script>
