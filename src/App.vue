@@ -6,5 +6,5 @@
 </template>
 
 <script lang="ts" setup>
-import Visitor from "./components/patterns/visitor/VisitorExample.vue";
+import Visitor from "./components/patterns/behavioral/visitor/VisitorExample.vue";
 </script>
