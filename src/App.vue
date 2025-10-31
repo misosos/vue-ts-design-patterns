@@ -1,10 +1,10 @@
 <!-- src/App.vue -->
 <template>
   <div id="app">
-    <Visitor/>
+    <BuilderExample/>
   </div>
 </template>
 
 <script lang="ts" setup>
-import Visitor from "./components/patterns/behavioral/visitor/VisitorExample.vue";
+import BuilderExample from "./components/patterns/creational/builder/BuilderExample.vue";
 </script>
