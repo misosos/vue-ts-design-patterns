@@ -6,5 +6,5 @@
 </template>
 
 <script lang="ts" setup>
-import LazySingleton from "./patterns/singleton/LazySingleton.vue";
+import LazySingleton from "./components/patterns/singleton/LazySingleton.vue";
 </script>
