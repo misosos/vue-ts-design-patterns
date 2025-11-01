@@ -1,10 +1,10 @@
 <!-- src/App.vue -->
 <template>
   <div id="app">
-    <BuilderExample/>
+    <StrategyExample/>
   </div>
 </template>
 
 <script lang="ts" setup>
-import BuilderExample from "./components/patterns/creational/builder/BuilderExample.vue";
+import StrategyExample from "./components/patterns/behavioral/strategy/StrategyrExample.vue";
 </script>
